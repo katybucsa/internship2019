@@ -112,7 +112,7 @@ public class Service {
     }
 
     /**
-     * if an error occurs and the holiday rights can not
+     * if an exception occurs and the holiday rights can not
      * be calculated, an error  message will be saved
      *
      * @param err the error message
